@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Alyss Flynn
 description: A page to display my projects, CV, and everything else.
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-sitemap
