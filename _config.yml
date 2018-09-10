@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Alyss Flynn
-description: Under construction
+description: A page to display my projects, CV, and everything else.
+permalink: /blog/:year/:month/:day/:title
