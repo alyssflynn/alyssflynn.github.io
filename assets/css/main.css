@@ -1,10 +1,11 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: 'Niramit', sans-serif;
 }
 nav ul, footer ul {
     /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
-    font-family: 'Niramit', sans-serif;
+    font-family: 'Muli', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
